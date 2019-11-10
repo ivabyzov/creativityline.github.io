@@ -1,0 +1,915 @@
+h4, p, h5, h6 {
+  font-family:  'PT Sans', sans-serif;
+}
+
+h1, h2, h3,  {
+  font-family: 'PT Serif', serif;
+}
+
+h1 {
+  font-size: 5vw;
+}
+
+h2 {
+  font-size: 4vw;
+}
+
+a {
+  text-decoration: none;
+
+  color: #000;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+header {
+  position: fixed;
+  z-index: 3;
+}
+
+.menu {
+  z-index: 2;
+
+  display: flex;
+
+  width: 100vw;
+  margin: 0vw 0vw;
+  padding-top: 2vw;
+  padding-right: -5vw;
+  padding-left: 2vw;
+
+  background-color: #fff;
+
+  font-size: 1.4vw;
+
+  justify-content: space-around;
+  align-items: center;
+}
+
+.one {
+  width: 10vw;
+}
+
+.two{
+  position: inherit;
+  z-index: 1;
+
+  overflow-x: hidden;
+
+  width: 100%;
+}
+
+.enter h2 {
+  margin-top: -19vw;
+  margin-left: 5vw;
+}
+
+.enter h4 {
+  margin-top: 2vw;
+  margin-left: 11vw;
+
+  font-size: 2vw;
+}
+
+.four {
+  position: absolute;
+  z-index: 1;
+
+  width: 20vw;
+  margin-left: 8vw;
+}
+
+.five {
+  position: absolute;
+  z-index: 1;
+
+  width: 21.3vw;
+  margin-left: 33vw;
+}
+
+.six {
+  position: absolute;
+
+  width: 20vw;
+  margin-top: 31vw;
+  margin-left: 8vw;
+}
+
+.seven {
+  position: absolute;
+
+  width: 21.5vw;
+  margin-top: 31vw;
+  margin-left: 33vw;
+}
+
+.war {
+  margin-top: 23vw;
+}
+
+.davinchi {
+  margin-top: 15vw;
+}
+
+.war, .davinchi, .spase, .films {
+  width: 59vw;
+  margin-left: 27vw;
+}
+
+.start p {
+  width: 36vw;
+  margin-top: 4vw;
+
+  color: #000;
+
+  font-size: 1.5vw;
+  line-height: 1.5;
+}
+
+.three {
+  width: 47.6vw;
+  margin-top: 2.5vw;
+}
+
+.history {
+  margin-top: 8vw;
+}
+
+.history p {
+  width: 47vw;
+  margin-top: 3vw;
+
+  font-size: 1.5vw;
+  line-height: 2.2vw;
+}
+
+.pilot1{
+  display: flex;
+
+  margin-top: 7vw;
+  margin-left: -8vw;
+}
+
+.pilot2{
+  display: flex;
+
+  margin-top: 2vw;
+  margin-left: -8vw;
+}
+
+#rite {
+  position: absolute;
+
+  width: 12vw;
+  margin-top: 25vw;
+  margin-left: -7vw;
+
+  text-align: right;
+}
+
+#left {
+  position: absolute;
+
+  width: 11vw;
+  margin-top: 25vw;
+  margin-left: 57vw;
+}
+
+#rite2 {
+  position: absolute;
+
+  width: 11vw;
+  margin-top: 58vw;
+  margin-left: -6vw;
+
+  text-align: right;
+}
+
+#left2 {
+  margin-top: 58vw;
+  margin-left: 56.4vw;
+}
+
+h5 {
+color: #34178D;
+
+font-size: 1vw;
+}
+
+.target {
+  margin-top: 8vw;
+}
+
+.target p {
+  width: 47vw;
+  margin-top: 3vw;
+
+  font-size: 1.5vw;
+  line-height: 2.2vw;
+}
+
+.plan {
+  margin-top: 8vw;
+}
+
+.plan p {
+  width: 47vw;
+  margin-top: 3vw;
+
+  font-size: 1.5vw;
+  line-height: 2.2vw;
+}
+.content {
+  margin-top: 8vw;
+}
+
+.content p {
+  width: 47vw;
+  margin-top: 3vw;
+
+  font-size: 1.5vw;
+  line-height: 2.2vw;
+}
+
+.eght {
+  width: 47vw;
+  margin-top: 4vw;
+
+}
+
+.eght2 {
+  width: 52vw;
+  margin-top: 4vw;
+  margin-left: -4vw;
+}
+
+.people {
+  margin-top: 8vw;
+}
+
+#one {
+  position: absolute;
+
+  width: 14vw;
+  margin-top: 21vw;
+  margin-left: -8vw;
+
+  text-align: right;
+}
+
+.four2 {
+  position: absolute;
+
+  width: 21vw;
+  height: 27vw;
+  margin-left: 8vw;
+}
+
+.five2 {
+  position: absolute;
+
+  width: 21vw;
+  height: 27vw;
+  margin-left: 34vw;
+}
+
+#two {
+  position: absolute;
+
+  width: 15vw;
+  margin-top: 21vw;
+  margin-left: 57vw;
+}
+
+#one2 {
+  position: absolute;
+
+  width: 14vw;
+  margin-top: 53vw;
+  margin-left: -8vw;
+
+  text-align: right;
+}
+
+.six2 {
+  position: absolute;
+
+  width: 21vw;
+  margin-top: 29vw;
+  margin-left: 8vw;
+}
+
+.seven2 {
+  position: absolute;
+
+  width: 21vw;
+  margin-top: 29vw;
+  margin-left: 34vw;
+}
+
+#two2 {
+  position: absolute;
+
+  width: 18vw;
+  margin-top: 51vw;
+  margin-left: 57vw;
+}
+
+.sponsots {
+  margin-top: 64vw;
+  margin-left: 1vw;
+}
+
+.sponsots p {
+  width: 47vw;
+  margin-top: 3vw;
+
+  font-size: 1.5vw;
+  line-height: 1.8vw;
+}
+
+.heppenens {
+  margin-top: 8vw;
+}
+
+.heppenens p {
+  width: 47vw;
+  margin-top: 3vw;
+
+  font-size: 1.5vw;
+  line-height: 2.2vw;
+}
+
+.nine {
+  width: 95vw;
+  margin-top: 7vw;
+  margin-left: -24.5vw;
+}
+
+.about {
+  margin-top: 8vw;
+}
+
+.about p {
+  width: 47vw;
+  margin-top: 3vw;
+
+  font-size: 1.5vw;
+  line-height: 2.2vw;
+}
+
+.three1 {
+  width: 50.5vw;
+  margin-top: 2vw;
+}
+
+.three2 {
+  width: 50.5vw;
+  margin-top: 2vw;
+}
+
+.three3 {
+  width: 50.5vw;
+  margin-top: 2vw;
+}
+
+.info {
+  margin-top: 8vw;
+}
+
+.thre {
+  width: 12vw;
+}
+
+.thr {
+  width: 14vw;
+  margin-left: 3vw;
+}
+
+.th {
+  width: 50.6vw;
+}
+
+.three4 {
+  width: 12vw;
+  margin-top: 4vw;
+  margin-left: 2vw;
+}
+
+.three5 {
+  width: 12vw;
+  margin-top: 2vw;
+  margin-left: 2vw;
+}
+
+.t {
+  width: 38vw;
+  margin-top: 3vw;
+  margin-left: -4vw;
+}
+
+.spase {
+  margin-top: 11vw;
+}
+
+.organization h2 {
+  margin-top: 8vw;
+}
+
+.organization p {
+  width: 47vw;
+  margin-top: 3vw;
+
+  font-size: 1.5vw;
+  line-height: 2.2vw;
+}
+
+.program h2 {
+  margin-top: 8vw;
+}
+
+h6 {
+  margin-top: 4vw;
+
+  color: #34178D;
+
+  font-size: 2.7vw;
+  font-weight: 400;
+}
+
+.program p {
+  width: 47vw;
+  margin-top: 3vw;
+
+  font-size: 1.5vw;
+  line-height: 2.2vw;
+}
+
+.four3 {
+  width: 23vw;
+  height: 33vw;
+  margin-top: 5vw;
+}
+
+.four4 {
+  width: 22vw;
+  margin-left: 2.5vw;
+}
+
+.ten {
+  position: absolute;
+
+  width: 21vw;
+  height: 11.8vw;
+  margin-top: 19.1vw;
+  margin-left: -21vw;
+}
+
+.clothes p {
+  width: 47vw;
+  margin-top: 3vw;
+
+  font-size: 1.5vw;
+  line-height: 2.2vw;
+}
+
+.four5 {
+  width: 23vw;
+  height: 38vw;
+  margin-top: 2.5vw;
+}
+
+.four6 {
+  width: 21.8vw;
+  height: 38vw;
+  margin-left: 2.5vw;
+}
+
+.clothes {
+  margin-top: 9vw;
+}
+
+.skaydoctor {
+  margin-top: 9vw;
+}
+
+.skaydoctor p {
+  width: 47vw;
+  margin-top: 3vw;
+
+  font-size: 1.5vw;
+  line-height: 2.2vw;
+}
+
+.fly p {
+  width: 47vw;
+  margin-top: 3vw;
+
+  font-size: 1.5vw;
+  line-height: 2.2vw;
+}
+
+.four7 {
+  width: 47.5vw;
+  margin-top: 2.5vw;
+}
+
+.gagarin p {
+  width: 47vw;
+  margin-top: 3vw;
+
+  font-size: 1.5vw;
+  line-height: 2.2vw;
+}
+
+.progra {
+  margin-top: 8vw;
+}
+
+.progra p {
+  width: 47vw;
+  margin-top: 3vw;
+
+  font-size: 1.5vw;
+  line-height: 2.2vw;
+}
+
+.four8 {
+  width: 24vw;
+  margin-top: 5vw;
+}
+
+.program {
+  margin-top: 9vw;
+}
+
+.progr {
+  margin-top: 108vw;
+}
+
+.progr p {
+  width: 47vw;
+  margin-top: 3vw;
+
+  font-size: 1.5vw;
+  line-height: 2.2vw;
+}
+
+.four9 {
+  width: 20vw;
+  height: 15.9vw;
+  margin-top: 3vw;
+  margin-left: 2.5vw;
+}
+
+.fly {
+  margin-top: 9vw;
+}
+
+.gagarin {
+  margin-top: 9vw;
+}
+
+.animation {
+  margin-top: 9vw;
+}
+
+.animation p {
+  width: 47vw;
+  margin-top: 3vw;
+
+  font-size: 1.5vw;
+  line-height: 2.2vw;
+}
+
+.eleven {
+  width: 27vw;
+  margin-top: 5vw;
+  margin-left: -21vw;
+}
+
+.five5 {
+  width: 22.3vw;
+  margin-left: 2.5vw;
+}
+
+.four11 {
+  position: absolute;
+
+  width: 27vw;
+  margin-top: 5vw;
+  margin-left: 3vw;
+}
+
+.four12 {
+  width: 22vw;
+  margin-top: 7vw
+}
+
+.four13 {
+  position: absolute;
+
+  width: 23vw;
+  margin-top: 5.1vw;
+  margin-left: 3vw;
+}
+
+.four10 {
+  height: 23.4vw;
+  margin-left: 3vw;
+}
+
+.twelve {
+  width: 19vw;
+  margin-top: 4vw;
+  margin-left: 16vw;
+}
+
+.thirteen {
+  width: 47vw;
+  margin-top: -4vw;
+}
+
+.trustees {
+  margin-top: 8vw;
+}
+
+#ostapenko {
+  position: absolute;
+
+  width: 14vw;
+  margin-top: 33vw;
+  margin-left: -16vw;
+
+  text-align: right;
+}
+
+#archipov {
+  position: absolute;
+
+  width: 17vw;
+  margin-top: -5.5vw;
+  margin-left: 51.5vw;
+
+  color: #34178D;
+
+  font-size: 1vw;
+}
+
+.sponsor {
+  margin-top: 7vw;
+}
+
+.films {
+  margin-top: 5vw;
+}
+
+.bad p {
+  width: 47vw;
+  margin-top: 3vw;
+
+  font-size: 1.5vw;
+  line-height: 2.2vw;
+}
+
+.fifteen {
+  position: relative;
+  z-index: 1;
+
+  width: 53vw;
+  margin-top: -2vw;
+  margin-left: -4vw;
+}
+
+.five4 {
+  width: 47.5vw;
+  margin-top: 2vw;
+}
+
+.five6 {
+  width: 24vw;
+  margin-top: 4vw;
+}
+
+.five7 {
+  width: 21.3vw;
+  margin-left: 3vw;
+}
+
+.five9 {
+  width: 23vw;
+  margin-top: 4vw;
+}
+
+.five10 {
+  position: absolute;
+
+  width: 20.8vw;
+  height: 30.7vw;
+  margin-top: 7vw;
+}
+
+.five11 {
+  position: absolute;
+
+  width: 20.8vw;
+  margin-top: 7vw;
+  margin-left: 26vw;
+}
+
+.tagizade {
+  position: absolute;
+
+  width: 20.8vw;
+  height: 28.4vw;
+  margin-top: 41vw;
+}
+
+.marcovich {
+  position: absolute;
+
+  width: 20.8vw;
+  margin-top: 41vw;
+  margin-left: 26vw;
+}
+
+.karashev {
+  position: absolute;
+
+  width: 20.8vw;
+  height: 28.4vw;
+  margin-top: 73vw;
+}
+
+.kiselev{
+  position: absolute;
+
+  width: 20.8vw;
+  margin-top: 73vw;
+  margin-left: 26vw;
+}
+
+#michalkov {
+  position: absolute;
+
+  width: 15vw;
+  margin-top: 33vw;
+  margin-left: -18vw;
+
+  text-align: right;
+}
+
+#cmatan {
+  position: absolute;
+
+  width: 17vw;
+  margin-top: 34vw;
+  margin-left: 49.5vw;
+
+  color: #34178D;
+
+  font-size: 1vw;
+}
+
+#tagizade {
+  position: absolute;
+
+  width: 15vw;
+  margin-top: 63vw;
+  margin-left: -18vw;
+
+  text-align: right;
+}
+
+#marcovich {
+  position: absolute;
+
+  width: 17vw;
+  margin-top: 64vw;
+  margin-left: 49.5vw;
+
+  color: #34178D;
+
+  font-size: 1vw;
+}
+
+#karashev {
+  position: absolute;
+
+  width: 15vw;
+  margin-top: 96vw;
+  margin-left: -18vw;
+
+  text-align: right;
+}
+
+#kiselev {
+  position: absolute;
+
+  width: 17vw;
+  margin-top: 96vw;
+  margin-left: 49.5vw;
+
+  color: #34178D;
+
+  font-size: 1vw;
+}
+
+.fourteen {
+  width: 47vw;
+  margin-top: 5vw;
+}
+
+.sponsors h2 {
+  position: relative;
+  z-index: 2;
+
+  margin-top: 8vw;
+}
+
+#stret {
+  position: absolute;
+
+  margin-top: 4vw;
+  margin-left: 28vw;
+
+  color: #fff;
+
+  font-size: 1.3vw;
+}
+
+#gmail {
+  position: absolute;
+
+  margin-top: 7vw;
+  margin-left: 28vw;
+
+  color: #fff;
+
+  font-size: 1.3vw;
+}
+
+.plase {
+  width: 49vw;
+  margin-top: 3vw;
+}
+
+.romans {
+  width: 24vw;
+  margin-top: 3vw;
+}
+
+.romans2 {
+  width: 23vw;
+  height: 19.2vw;
+  margin-left: 2.5vw;
+}
+
+.vk {
+  position: absolute;
+
+  width: 9vw;
+  margin-top: 0.5vw;
+  margin-left: 47vw;
+}
+
+.inst {
+  position: absolute;
+
+  width: 10vw;
+  margin-left: 52.4vw;
+}
+
+.twi {
+  position: absolute;
+
+  width: 7.5vw;
+  margin-top: 1vw;
+  margin-left: 59vw;
+}
+
+.face {
+  position: absolute;
+
+  width: 7vw;
+  margin-top: 1vw;
+  margin-left: 65vw;
+}
+
+.youtube {
+  position: absolute;
+
+  width: 8vw;
+  margin-top: 1vw;
+  margin-left: 70vw;
+}
+
+.end {
+  width: 100vw;
+  height: 11vw;
+  margin-top: 10vw;
+
+  background: #6B6B6B;
+}
